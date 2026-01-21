@@ -1,28 +1,29 @@
-# Meal Finder Project
+# 🍽️ Meal Finder App
 
-## Description
-The **Meal Finder Project** is a simple web application built using **HTML**, **CSS**, and **JavaScript**.  
-It allows users to search for meals and view details such as ingredients and cooking instructions using a public API.
-
----
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+A modern, responsive **Meal Finder Web Application** built using **HTML**, **CSS**, and **JavaScript**.  
+This app allows users to search for meals and view detailed recipes including ingredients and cooking instructions using a public API.
 
 ---
 
-## Features
+## ✨ Features
 
-- Search meals by name
-- Display meal image and details
-- Show ingredients and instructions
-- Responsive design
-- Simple and clean UI
+🔍 Search meals by name  
+🖼️ Display meal images  
+📋 Ingredients list  
+📖 Cooking instructions  
+📱 Fully responsive design  
+⚡ Lightweight & fast (No frameworks)
 
 ---
 
-## Project Structure
+## 🛠️ Tech Stack
+
+- 🧱 **HTML5** – Structure
+- 🎨 **CSS3** – Styling & layout
+- ⚙️ **JavaScript (Vanilla JS)** – Logic & API handling
+- 🌐 **TheMealDB API** – Meal data
+
+---
+
+## 📁 Project Structure
 
